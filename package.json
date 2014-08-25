@@ -1,0 +1,24 @@
+{
+  "name": "node-rest-cli",
+  "version": "0.0.1",
+  "description": "A Command line interface for making rest requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toastynerd/node-rest-cli.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "cli"
+  ],
+  "author": "Tyler Morgan <tyler@codefellows.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toastynerd/node-rest-cli/issues"
+  },
+  "homepage": "https://github.com/toastynerd/node-rest-cli"
+}
